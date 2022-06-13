@@ -1,4 +1,4 @@
-# engage-rtc-click-to-call-web-app
+# engage-rtc-web-client-audiovideo-demo-app-js
 Engage RTC click to call web application describs how you can easily integrate click-to-call feature into your website. The javascript files provided here will abstract away the logic of connecting to the Engage Digital platform, making the calls, binding local and remote videos to the html etc.
 It can be easily plugged into an existing website with minimal changes.
 
